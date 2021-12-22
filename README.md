@@ -57,11 +57,11 @@ since those models are the result of agregating the results of different models.
 The parameters of the Voting Ensemble model, are those corresponding to each of the models used during aggregation. It will be difficult to improve the performance of the model unless
 the automl settings of experiment timeout is increase.
 
-Screenshots 
+RunDetails AutoML screenshot 
+![RunDetails AutoML](https://github.com/viyq/mle-CAPR-p3/blob/0503b4526088a845177b11dac994cad8e7bbc5c8/screenshots/RunDetails%20AutoML%20screenshot.jpg)
 
-RunDetails AutoML, best model with RunID) 
-
-![RunDetails AutoML screenshot](https://github.com/viyq/mle-CAPR-p3/blob/0503b4526088a845177b11dac994cad8e7bbc5c8/screenshots/RunDetails%20AutoML%20screenshot.jpg)
+Best model with RunID screenshot
+![Best model with RunID](https://github.com/viyq/mle-CAPR-p3/blob/9f689e80c30d740ae2005ef2868d6999a847dd1b/screenshots/best%20model%20with%20RunID.jpg)
 
 ## Hyperparameter Tuning
 
@@ -101,8 +101,11 @@ The best hyperparameter model gave an R² = 0.82 with hyperparameters:
 
 A better model could have been achieved by allowing a greater number of runs and narrowing the sampling of parameters.
 
-Screenshots (hyperparam RunDetails, hyperparam best model ID param) can be found in
-https://github.com/viyq/mle-CAPR-p3/tree/main/screenshots
+Hyperparameter RunDetails 
+![Hyperparameter RunDetails](https://github.com/viyq/mle-CAPR-p3/blob/9f689e80c30d740ae2005ef2868d6999a847dd1b/screenshots/hyperparam%20RunDetails.jpg)
+
+Hyperparam best model ID param
+![Hyperparam best model ID param](https://github.com/viyq/mle-CAPR-p3/blob/9f689e80c30d740ae2005ef2868d6999a847dd1b/screenshots/hyperparam%20best%20model%20ID%20param.jpg)
 
 ## Model Deployment
 
@@ -168,5 +171,14 @@ Link https://youtu.be/k1iLi14fdoU
 - The webservice has been implemented with enabled applications insights for allowing logging of the requests: 
 time of the request, error print.
 
-Screenshots of logging , application insights logs, service deployment logs, saved onnx model
-https://github.com/viyq/mle-CAPR-p3/tree/main/screenshots
+Screenshots 
+
+Application insights logs
+![Application insights logs](https://github.com/viyq/mle-CAPR-p3/blob/9f689e80c30d740ae2005ef2868d6999a847dd1b/screenshots/application%20insights%20logs.jpg)
+
+Service deployment logs
+![Service deployment logs](https://github.com/viyq/mle-CAPR-p3/blob/9f689e80c30d740ae2005ef2868d6999a847dd1b/screenshots/service%20deployment%20logs.jpg)
+
+Saved onnx model
+![Saved onnx model](https://github.com/viyq/mle-CAPR-p3/blob/9f689e80c30d740ae2005ef2868d6999a847dd1b/screenshots/saved%20onnx%20model.jpg)
+
