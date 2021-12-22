@@ -180,5 +180,6 @@ Service deployment logs
 ![Service deployment logs](https://github.com/viyq/mle-CAPR-p3/blob/9f689e80c30d740ae2005ef2868d6999a847dd1b/screenshots/service%20deployment%20logs.jpg)
 
 Saved onnx model
+
 ![Saved onnx model](https://github.com/viyq/mle-CAPR-p3/blob/9f689e80c30d740ae2005ef2868d6999a847dd1b/screenshots/saved%20onnx%20model.jpg)
 
