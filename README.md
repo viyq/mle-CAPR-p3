@@ -13,8 +13,7 @@ Each chemical substance has some physico-chemical characteristic that will deter
 
 In water treatment, some special membranes are used to remove micropollutants (MP). MPs are ubiquitous contaminants present in the environment (soil, water) in concentrations of µg/L or ng/L. 
 The dataset contains physico-chemical parameters used to characterize MPs. The dataset includes lab scale and pilot scale results of membrane water treatment, where operational variables and 
-membrane types can influence the way a MP is removed. The dataset is external and comes from the book "Rejection of Emerging Organic Contaminants by Nanofiltration and Reverse Osmosis Membranes: Effects of Fouling, Modelling and Water Reuse".
-[data link] (http://desalination-delft.nl/wp-content/uploads/2018/06/Yangali-2010-Yangali.pdf)
+membrane types can influence the way a MP is removed. The dataset is external and comes from the book "Rejection of Emerging Organic Contaminants by Nanofiltration and Reverse Osmosis Membranes: Effects of Fouling, Modelling and Water Reuse". [data link](http://desalination-delft.nl/wp-content/uploads/2018/06/Yangali-2010-Yangali.pdf)
 
 Metadata:
 
@@ -201,7 +200,7 @@ will print predictions [87.39, 92.73]
 - Demo of the deployed  model
 - Demo of a sample request sent to the endpoint and its response
 
-[Screen recording link] (https://youtu.be/k1iLi14fdoU)
+[Screen recording link](https://youtu.be/k1iLi14fdoU)
 
 ## Standout Suggestions
 
